@@ -63,4 +63,5 @@ class Map
     def show
         puts @map
     end
+
 end
