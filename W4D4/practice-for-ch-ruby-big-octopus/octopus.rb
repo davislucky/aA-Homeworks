@@ -61,3 +61,5 @@ class Array
         tiles_hash[direction]
     end
 end
+
+def blah
